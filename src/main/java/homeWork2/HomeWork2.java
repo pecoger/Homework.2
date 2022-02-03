@@ -34,6 +34,5 @@ public class HomeWork2 {
 
         System.out.println(yourName + replacedName + " and my nickname is " + nickName + ".");
 
-        //TODO find you hot to split the conditions in different classes
     }
 }
